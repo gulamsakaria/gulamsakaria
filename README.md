@@ -130,11 +130,7 @@ I'm a CSE student at Daffodil International University working at the intersecti
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gulamsakaria&theme=tokyonight&hide_border=true" />
-</p>
-
-> **Note:** an extra Stats + Top Languages + Trophy row is drafted and ready in `github_action_plan.md` — the shared public widget service that renders those is down site-wide right now (I checked live; even the reference profile's copy of it is broken). Once you self-host your own copy (free, ~5 minutes, steps included in that file), it'll always be up instead of depending on a shared service everyone hits.
+> A live Stats + Top Languages + Streak + Trophy row is drafted and ready in `github_action_plan.md`. The public widget services that render these (github-readme-stats, github-profile-trophy, streak-stats) are unreliable shared infrastructure — one was down site-wide when I checked, another rendered a stuck loading frame once embedded here. Rather than ship something that can silently break, self-host your own copy (free, ~5 minutes, steps included in that file) and it'll always be live.
 
 ---
 
