@@ -76,11 +76,6 @@ I'm a CSE student at Daffodil International University working at the intersecti
   <td>Python · Plotly</td>
 </tr>
 <tr>
-  <td>Factuality-Aware Bangla Headline Generation <i>(research)</i></td>
-  <td>Comparative study of fine-tuned transformers vs. LoRA-tuned LLMs for Bangla headline generation, with NLI-based hallucination detection.</td>
-  <td>BanglaT5 · LoRA/QLoRA</td>
-</tr>
-<tr>
   <td><a href="https://huggingface.co/datasets/gulamsakaria/sorok-road-accidents-bd"><b>Sorok Dataset</b></a></td>
   <td>Nightly-refreshed dataset of Bangladesh road-accident records, scraped nationwide and automated via Hugging Face Jobs.</td>
   <td>Python · Playwright · 🤗 Jobs</td>
