@@ -75,11 +75,6 @@ I'm a CSE student at Daffodil International University working at the intersecti
   <td>Least-Squares curve fitting implemented from scratch, with auto-best-fit selection and live SciPy verification.</td>
   <td>Python · Plotly</td>
 </tr>
-<tr>
-  <td><a href="https://huggingface.co/datasets/gulamsakaria/sorok-road-accidents-bd"><b>Sorok Dataset</b></a></td>
-  <td>Nightly-refreshed dataset of Bangladesh road-accident records, scraped nationwide and automated via Hugging Face Jobs.</td>
-  <td>Python · Playwright · 🤗 Jobs</td>
-</tr>
 </table>
 
 ---
