@@ -61,7 +61,7 @@ I'm a CSE student at Daffodil International University working at the intersecti
   <td>BanglaBERT · PyTorch · Streamlit</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/gulamsakaria/PlasticScan-BD"><b>PlasticScan BD</b></a></td>
+  <td><a href="https://github.com/gulamsakaria/PlasticScan-BD"><b>PlasticScan BD</b></a> · <a href="https://plasticscan-bd.streamlit.app/">🔴 Live</a></td>
   <td>AI plastic-waste detection & community reward system for rural Bangladesh. Built for Climate Camp 2026.</td>
   <td>Gemini Vision · Streamlit</td>
 </tr>
@@ -71,7 +71,7 @@ I'm a CSE student at Daffodil International University working at the intersecti
   <td>PHP · MySQL</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/gulamsakaria/curve-fitting-app"><b>Curve Fitting Visualizer</b></a></td>
+  <td><a href="https://github.com/gulamsakaria/curve-fitting-app"><b>Curve Fitting Visualizer</b></a> · <a href="https://curve-fitting-app2.streamlit.app/">🔴 Live</a></td>
   <td>Least-Squares curve fitting implemented from scratch, with auto-best-fit selection and live SciPy verification.</td>
   <td>Python · Plotly</td>
 </tr>
