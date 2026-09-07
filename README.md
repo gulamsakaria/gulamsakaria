@@ -66,7 +66,7 @@ I'm a CSE student at Daffodil International University working at the intersecti
   <td>Gemini Vision · Streamlit</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/gulamsakaria/relief-system"><b>ReliefX</b></a></td>
+  <td><a href="https://github.com/gulamsakaria/relief-system"><b>ReliefX</b></a> · <a href="https://reliefx.stratifyxglobal.com/">🔴 Live</a></td>
   <td>Flood-relief distribution system that stops duplicate aid — salted-hash NID privacy, fuzzy Bangla name matching, DB-level triggers against race conditions.</td>
   <td>PHP · MySQL</td>
 </tr>
