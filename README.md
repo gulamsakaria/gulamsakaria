@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=D62839&center=true&vCenter=true&width=640&lines=Machine+Learning+Engineer+%40+TV19+Online;NLP+for+Bangla+%26+Banglish+Text;Building+CommentLens+%F0%9F%94%8D;Research+Assistant+%40+Newcastle+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=D62839&center=true&vCenter=true&width=640&lines=Marketing+Head+%26+Video+Editor+%40+TV19+Online;NLP+for+Bangla+%26+Banglish+Text;Building+CommentLens+%F0%9F%94%8D;Research+Assistant+%40+Newcastle+University" alt="Typing SVG" />
 </a>
 </p>
 
@@ -23,7 +23,7 @@ I'm a CSE student at Daffodil International University working at the intersecti
 ### 💼 Experience & Research
 
 <table>
-<tr><td>🧪</td><td><b>Machine Learning Engineer</b> — TV19 Online (London)</td></tr>
+<tr><td>🧪</td><td><b>Marketing Head &amp; Video Editor</b> — TV19 Online (London)</td></tr>
 <tr><td>🎓</td><td><b>Research Assistant</b> to Professor Dr. Shah Jahan Miah — Newcastle University, Australia (research writing, AI model testing, factuality-aware Bangla NLG)</td></tr>
 <tr><td>🚀</td><td><b>Founder & Executive Chairman</b> — <a href="https://stratifyxglobal.com">StratifyX Global</a>, a Bangladesh-based research/blog platform on tech, AI & digital transformation</td></tr>
 <tr><td>🌐</td><td><b>Campus Ambassador</b> — GoEdu</td></tr>
