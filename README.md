@@ -75,6 +75,11 @@ I'm a CSE student at Daffodil International University working at the intersecti
 <td>Least-Squares curve fitting implemented from scratch, with auto-best-fit selection and live SciPy verification.</td>
 <td>Python · Plotly</td>
 </tr>
+  <tr>
+<td><a href="https://github.com/gulamsakaria/legacylift"><b>LegacyLift</b></a> · <a href="https://legacylift-ykt1.onrender.com/">🔴 Live</a></td>
+<td>Legacy PHP modernizer — scans old PHP codebases, risk-scores them, applies safe automated fixes, generates tests, and produces a before/after proof. Built for IBM Bob 2.0 Hackathon 2026.</td>
+<td>Python · PHP · CLI</td>
+</tr>
 </table>
 
 ---
