@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 960 660" width="960" height="660" role="img" aria-label="Tools change, curiosity doesn't - skills orbit">
+<title>Tools change, curiosity doesn't - skills orbit</title>
+<style>.fh{font-family:Impact, 'Arial Black', Haettenschweiler, 'Franklin Gothic Condensed', sans-serif}.fb{font-family:'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif}.fm{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}</style>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#16224F" stroke-width="1" opacity=".6"/>
+  </pattern>
+  <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#2F6BFF" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowR" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#FF4D5E" stop-opacity=".45"/>
+    <stop offset="1" stop-color="#FF4D5E" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="gCard" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0F1A3D"/>
+<stop offset="1" stop-color="#0C1430"/>
+  </linearGradient>
+</defs>
+<clipPath id="frame">
+<rect width="960" height="660" rx="26"/>
+</clipPath>
+<g clip-path="url(#frame)">
+<rect width="960" height="660" fill="#070B1A"/>
+<rect width="960" height="660" fill="url(#grid)"/>
+<circle cx="255" cy="420" r="300" fill="url(#glowB)"/>
+<circle cx="900" cy="620" r="200" fill="url(#glowR)"/>
+<text x="48" y="60" class="fm" font-size="22" font-weight="700" fill="#FF4D5E" text-anchor="start" letter-spacing="2" >// 03 . TOOLKIT</text>
+<text x="48" y="130" class="fh" font-size="62" font-weight="400" fill="#FFFFFF" text-anchor="start" textLength="361" lengthAdjust="spacingAndGlyphs" >TOOLS CHANGE.</text>
+<text x="424" y="130" class="fh" font-size="62" font-weight="400" fill="#5B97FF" text-anchor="start" textLength="489" lengthAdjust="spacingAndGlyphs" >CURIOSITY DOESN'T.</text>
+<circle cx="255" cy="420" r="108" fill="none" stroke="#1E2B5A" stroke-width="2" stroke-dasharray="3 9"/>
+<circle cx="255" cy="420" r="182" fill="none" stroke="#1E2B5A" stroke-width="2" stroke-dasharray="3 9"/>
+<circle cx="255" cy="420" r="95" fill="url(#glowB)">
+<animate attributeName="r" values="80;112;80" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".7;1;.7" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="255" cy="420" r="50" fill="#070B1A" stroke="#5B97FF" stroke-width="4"/>
+<circle cx="255" cy="420" r="38" fill="none" stroke="#FF4D5E" stroke-width="2" stroke-dasharray="5 7">
+<animateTransform attributeName="transform" type="rotate" from="0 255 420" to="-360 255 420" dur="14s" repeatCount="indefinite"/>
+</circle>
+<text x="255" y="431" text-anchor="middle" class="fh" font-size="30" fill="#FFFFFF" letter-spacing="1">BUILD</text>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 255 420" to="-360 255 420" dur="44s" repeatCount="indefinite"/>
+<g transform="translate(255.0,238.0)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+<circle r="36" fill="#5B97FF" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#5B97FF" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="17" font-weight="800" fill="#FFFFFF">SQL</text>
+</g>
+</g>
+<g transform="translate(397.3,306.5)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+<circle r="36" fill="#FFB84D" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#FFB84D" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">JS</text>
+</g>
+</g>
+<g transform="translate(432.4,460.5)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+<circle r="36" fill="#5B97FF" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#5B97FF" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">Re</text>
+</g>
+</g>
+<g transform="translate(334.0,584.0)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+<circle r="36" fill="#34D399" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#34D399" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">Nd</text>
+</g>
+</g>
+<g transform="translate(176.0,584.0)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+<circle r="36" fill="#FF4D5E" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#FF4D5E" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="17" font-weight="800" fill="#FFFFFF">Git</text>
+</g>
+</g>
+<g transform="translate(77.6,460.5)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+<circle r="36" fill="#5B97FF" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#5B97FF" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">Rm</text>
+</g>
+</g>
+<g transform="translate(112.7,306.5)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="44s" repeatCount="indefinite"/>
+<circle r="36" fill="#FFB84D" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#FFB84D" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">HF</text>
+</g>
+</g>
+</g>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 255 420" to="360 255 420" dur="30s" repeatCount="indefinite"/>
+<g transform="translate(255.0,312.0)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+<circle r="36" fill="#5B97FF" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#5B97FF" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">Py</text>
+</g>
+</g>
+<g transform="translate(363.0,420.0)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+<circle r="36" fill="#FF4D5E" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#FF4D5E" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">TF</text>
+</g>
+</g>
+<g transform="translate(255.0,528.0)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+<circle r="36" fill="#5B97FF" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#5B97FF" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">PT</text>
+</g>
+</g>
+<g transform="translate(147.0,420.0)">
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="30s" repeatCount="indefinite"/>
+<circle r="36" fill="#FF4D5E" fill-opacity=".16"/>
+<circle r="28" fill="#070B1A" stroke="#FF4D5E" stroke-width="3"/>
+<text y="7" text-anchor="middle" class="fm" font-size="20" font-weight="800" fill="#FFFFFF">CV</text>
+</g>
+</g>
+</g>
+<rect x="520" y="196" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="546" cy="225.0" r="7" fill="#5B97FF">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="0.00s" repeatCount="indefinite"/>
+</circle>
+<text x="566" y="234" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >Python</text>
+<rect x="730" y="196" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="756" cy="225.0" r="7" fill="#FF4D5E">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="0.35s" repeatCount="indefinite"/>
+</circle>
+<text x="776" y="234" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >SQL</text>
+<rect x="520" y="268" width="400" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="546" cy="297.0" r="7" fill="#5B97FF">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="0.70s" repeatCount="indefinite"/>
+</circle>
+<text x="566" y="306" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >TensorFlow / PyTorch</text>
+<rect x="520" y="340" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="546" cy="369.0" r="7" fill="#FF4D5E">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="1.05s" repeatCount="indefinite"/>
+</circle>
+<text x="566" y="378" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >OpenCV</text>
+<rect x="730" y="340" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="756" cy="369.0" r="7" fill="#5B97FF">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="1.40s" repeatCount="indefinite"/>
+</circle>
+<text x="776" y="378" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >JavaScript</text>
+<rect x="520" y="412" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="546" cy="441.0" r="7" fill="#FF4D5E">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="1.75s" repeatCount="indefinite"/>
+</circle>
+<text x="566" y="450" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >React</text>
+<rect x="730" y="412" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="756" cy="441.0" r="7" fill="#5B97FF">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="2.10s" repeatCount="indefinite"/>
+</circle>
+<text x="776" y="450" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >Node.js</text>
+<rect x="520" y="484" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="546" cy="513.0" r="7" fill="#FF4D5E">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="2.45s" repeatCount="indefinite"/>
+</circle>
+<text x="566" y="522" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >Git</text>
+<rect x="730" y="484" width="190" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="756" cy="513.0" r="7" fill="#5B97FF">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="2.80s" repeatCount="indefinite"/>
+</circle>
+<text x="776" y="522" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >Remotion</text>
+<rect x="520" y="556" width="400" height="58" rx="16" fill="url(#gCard)" stroke="#1E2B5A" stroke-width="2"/>
+<circle cx="546" cy="585.0" r="7" fill="#FF4D5E">
+<animate attributeName="opacity" values="1;.25;1" dur="3s" begin="3.15s" repeatCount="indefinite"/>
+</circle>
+<text x="566" y="594" class="fb" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="start" >Hugging Face</text>
+</g>
+<rect x="1" y="1" width="958" height="658" rx="25" fill="none" stroke="#1E2B5A" stroke-width="2"/>
+</svg>
